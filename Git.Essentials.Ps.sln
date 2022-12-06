@@ -9,9 +9,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Git.Essentials.Sync", "src\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Git.Essentials.Util", "src\Git.Essentials.Util\Git.Essentials.Util.csproj", "{CDDF9F3F-55E4-4925-87F2-DC0E1E6E029E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Git.Essentials.Util.Tests", "tests\Git.Essentials.Util.Tests\Git.Essentials.Util.Tests.csproj", "{9CE42D6A-BE08-48E2-846F-2DB68D26CAAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Git.Essentials.Util.Tests", "tests\Git.Essentials.Util.Tests\Git.Essentials.Util.Tests.csproj", "{9CE42D6A-BE08-48E2-846F-2DB68D26CAAC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{C92E8895-3C5D-43CE-BE60-0E648131B9F7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "project", "project", "{6AC378E5-C623-4385-83EA-442C7DA41B2A}"
+	ProjectSection(SolutionItems) = preProject
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		README.md = README.md
+		LICENSE.txt = LICENSE.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

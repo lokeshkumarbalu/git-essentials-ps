@@ -1,8 +1,5 @@
-﻿//------------------------------------------------------------------------------
-// <copyright file="DocumentHeaderStyle.cs" company="Zealag">
-//    Copyright © Zealag 2018. All rights reserved.
-// </copyright>
-//------------------------------------------------------------------------------
+﻿// Licensed to Lokesh Balu under one or more agreements.
+// Lokesh Balu licenses this file to you under the MIT license.
 
 namespace Git.Essentials.Util.Model.Constants
 {
