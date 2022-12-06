@@ -1,3 +1,3 @@
-# Zealag
+# Git-Essentials.Ps
 
-Common utilities for daily operational use.
+Powershell commands to do essential git operations easily.
